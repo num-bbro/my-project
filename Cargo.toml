@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "main-one",
+    "main-two",
+    "shared",
+]
+
+[package]
+name = "my-project"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
