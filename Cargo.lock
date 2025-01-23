@@ -4,16 +4,16 @@ version = 4
 
 [[package]]
 name = "main-one"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "main-two"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "my-project"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "shared"
-version = "0.1.0"
+version = "0.1.1"
